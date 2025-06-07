@@ -1,6 +1,6 @@
 # Task Manager API - Backend Developer Test
 
-A complete REST API for task management built with Next.js, featuring all required endpoints and bonus features.
+A complete REST API for task management built with Next.js, featuring all required endpoints and bonus features
 
 ## 🚀 Features
 
